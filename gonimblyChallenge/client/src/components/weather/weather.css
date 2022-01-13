@@ -1,0 +1,16 @@
+table {
+    width: 95%;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.background-sky-blue {
+    background-color: lightskyblue;
+}
+
+.background-steel-blue {
+    background-color: lightsteelblue;
+}
